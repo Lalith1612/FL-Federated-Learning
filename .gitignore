@@ -1,0 +1,31 @@
+# Large binary files
+*.sqsh
+
+# Dataset directories (too large for GitHub)
+data/
+data1/
+
+# Python virtual environment
+fl_env/
+env/
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
